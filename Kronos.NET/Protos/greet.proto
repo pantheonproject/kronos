@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option csharp_namespace = "Kronos.NET";
+option csharp_namespace = "PantheonProject.Kronos.NET";
 
 package greet;
 

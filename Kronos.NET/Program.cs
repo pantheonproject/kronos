@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace Kronos.NET
+namespace PantheonProject.Kronos.NET
 {
     public class Program
     {

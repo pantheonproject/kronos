@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace Kronos.NET
+namespace PantheonProject.Kronos.NET
 {
     public class Startup
     {
