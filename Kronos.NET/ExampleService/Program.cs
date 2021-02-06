@@ -1,4 +1,5 @@
 ﻿using System;
+using kronos = PantheonProject.Kronos.NET;
 
 namespace ExampleService
 {
@@ -6,7 +7,7 @@ namespace ExampleService
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			kronos.Program.Main(args);
 		}
 	}
 }
