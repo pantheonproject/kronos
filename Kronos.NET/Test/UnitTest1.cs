@@ -1,4 +1,5 @@
 using NUnit.Framework;
+using PantheonProject.Kronos.NET;
 
 namespace PantheonProject.Kronos.NET.Test
 {
@@ -7,6 +8,7 @@ namespace PantheonProject.Kronos.NET.Test
 		[SetUp]
 		public void Setup()
 		{
+			Program.Main(null);
 		}
 
 		[Test]
