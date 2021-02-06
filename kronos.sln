@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kronos.NET", "Kronos.NET\Lib\Kronos.NET.csproj", "{267C72DA-BEEC-4CDA-9FE6-91F714C3E2DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kronos.NET", "Kronos.NET\Lib\Lib.csproj", "{267C72DA-BEEC-4CDA-9FE6-91F714C3E2DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Kronos.NET\Test\Test.csproj", "{DF17762E-B7E2-44B5-A26F-BC4A008F5809}"
 EndProject
